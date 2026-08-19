@@ -122,7 +122,7 @@ Prompt_PlayGround/
 
 ### Evaluation Results
 
-![Evaluation Results](images/Prompt_Playground_Evaluation.png)
+![Evaluation Results](images/Prompt_Playgroung_Evaluation.png)
 
 ### Detailed Breakdown
 
