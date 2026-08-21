@@ -2,6 +2,12 @@
 
 A Streamlit web app that benchmarks four core prompting techniques using Google Gemini and LangChain. An independent LLM judge scores each technique across five criteria so you can see which approach works best for any task.
 
+## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](https://prompt-playground-project.streamlit.app/)
+
+👉 [Open the Prompt Playground](https://prompt-playground-project.streamlit.app/)
+
 ---
 
 ## Overview
